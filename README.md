@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**qianyi-11/qianyi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 Hey, I'm Qian Yi 👨‍💻
 
-Here are some ideas to get you started:
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/qianyi-11)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-qian-yi-0111qy/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qianyi351@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Computer Science Student | Software Engineer Intern  
+### 🚀 AI • Software Development • Hackathons
+
+</div>
