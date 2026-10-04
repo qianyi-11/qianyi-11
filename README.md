@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 Hey, I'm Qian Yi 👨‍💻
+# 🌱 Hey, I'm Lee Qian Yi 👨‍💻
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/qianyi-11)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-qian-yi-0111qy/)
@@ -16,11 +16,11 @@
 
 ## 🛠️ About Me
 
-- 🎓 Computer Science @ Universiti Malaya
+- 🎓 Computer Science（Information Systems) @ Universiti Malaya
 - 💻 Software Engineer Intern
 - 🤖 Interested in AI, Computer Vision & Software Development
 - 🚀 Enjoy building projects and participating in hackathons
-- 🌱 Currently exploring backend development, AI applications & cloud technologies
+- 🌱 Currently exploring backend development, AI applications, cloud technologies and data analytic
 
 ---
 
