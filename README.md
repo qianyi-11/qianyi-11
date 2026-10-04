@@ -60,7 +60,7 @@
 
 | 🏅 Status | 🚀 Project / Competition | 📝 Description | 🔗 Link |
 |:---:|---|---|:---:|
-| 🚀 **Project** | **EVision AI** | Flutter-based EV charger inspection and diagnostic app with visual detection, guided troubleshooting and AI assistance. | [View Project](https://github.com/qianyi-11/EV-Charger-ESUM) |
+| 🚀 **Project** | **EVision** | Flutter-based EV charger inspection and diagnostic app with visual detection, guided troubleshooting and AI assistance. | [View Project](https://github.com/qianyi-11/EV-Charger-ESUM) |
 | 🚀 **Project** | **SurvAI** | Offline AI autonomous drone rescue system for mission planning, swarm coordination and survivor detection. | [View Project](https://github.com/xinyichua05/SurvAI) |
 | 🚀 **Project** | **Trippy** | Explainable group travel planner that turns preferences and votes into a capacity-aware itinerary. | [View Project](https://github.com/qianyi-11/TravPlanner) |
 | 🚀 **Project** | **Centinel** | Enterprise governance platform with an AI firewall, PII protection, Shadow AI detection and compliance monitoring. | [View Project](https://github.com/xinyichua05/Centinel) |
