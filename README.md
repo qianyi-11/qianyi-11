@@ -11,3 +11,47 @@
 ### 🚀 AI • Software Development • Hackathons
 
 </div>
+
+---
+
+## 🛠️ About Me
+
+- 🎓 Computer Science @ Universiti Malaya
+- 💻 Software Engineer Intern
+- 🤖 Interested in AI, Computer Vision & Software Development
+- 🚀 Enjoy building projects and participating in hackathons
+- 🌱 Currently exploring backend development, AI applications & cloud technologies
+
+---
+
+## ⚡ Languages & Tools
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+</p>
+
+### 🎨 Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,postgres,sqlite" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
