@@ -56,10 +56,7 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,googlecolab,jupyter" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=googlecolab,jupyter" />
-</p>
-
+---
 
 ### 🏆 Project & Competition Tracker
 
