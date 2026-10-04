@@ -66,4 +66,4 @@
 | 🚀 **Project** | **Centinel** | Enterprise AI governance platform with an AI firewall, PII protection, Shadow AI detection and compliance monitoring. | [View Project](YOUR_LINK) |
 | 🚀 **Project** | **DuitSense** | AI-powered personal finance app combining budgeting, financial insights, savings planning and gamified financial habits. | [View Project](https://github.com/qianyi-11/DUITSENSE) |
 | 🚀 **Project** | **Shippeo** | AI-powered shipping document verification system that compares Shipping Instructions with Bills of Lading and explains discrepancies with evidence. | [View Project](https://github.com/qianyi-11/Shippeo) |
-| 🚀 **Project** | **TreasurAI** | AI-powered financial decision-support platform for cash-flow forecasting, ROI simulation, scenario planning and supplier negotiation. | [View Project]([https://github.com/kangzhengg/treasurai]) |
+| 🚀 **Project** | **TreasurAI** | AI-powered financial decision-support platform for cash-flow forecasting, ROI simulation, scenario planning and supplier negotiation. | [View Project](https://github.com/kangzhengg/treasurai) |
