@@ -60,10 +60,14 @@
 
 | 🏅 Status | 🚀 Project / Competition | 📝 Description | 🔗 Link |
 |:---:|---|---|:---:|
-| 🚀 **Project** | **EVision** | Flutter-based EV charger inspection and diagnostic app with visual detection, guided troubleshooting and AI assistance. | [View Project](https://github.com/qianyi-11/EV-Charger-ESUM) |
-| 🚀 **Project** | **SurvAI** | Offline AI-powered autonomous drone rescue system for mission planning, swarm coordination and survivor detection. | [View Project](YOUR_LINK) |
+| 🚀 **Project** | **EVision AI** | Flutter-based EV charger inspection and diagnostic app with visual detection, guided troubleshooting and AI assistance. | [View Project](https://github.com/qianyi-11/EV-Charger-ESUM) |
+| 🚀 **Project** | **SurvAI** | Offline AI autonomous drone rescue system for mission planning, swarm coordination and survivor detection. | [View Project](https://github.com/xinyichua05/SurvAI) |
 | 🚀 **Project** | **Trippy** | Explainable group travel planner that turns preferences and votes into a capacity-aware itinerary. | [View Project](https://github.com/qianyi-11/TravPlanner) |
-| 🚀 **Project** | **Centinel** | Enterprise AI governance platform with an AI firewall, PII protection, Shadow AI detection and compliance monitoring. | [View Project](https://github.com/xinyichua05/Centinel) |
-| 🚀 **Project** | **DuitSense** | AI-powered personal finance app combining budgeting, financial insights, savings planning and gamified financial habits. | [View Project](https://github.com/qianyi-11/DUITSENSE) |
-| 🚀 **Project** | **Shippeo** | AI-powered shipping document verification system that compares Shipping Instructions with Bills of Lading and explains discrepancies with evidence. | [View Project](https://github.com/qianyi-11/Shippeo) |
-| 🚀 **Project** | **TreasurAI** | AI-powered financial decision-support platform for cash-flow forecasting, ROI simulation, scenario planning and supplier negotiation. | [View Project](https://github.com/kangzhengg/treasurai) |
+| 🚀 **Project** | **Centinel** | Enterprise governance platform with an AI firewall, PII protection, Shadow AI detection and compliance monitoring. | [View Project](https://github.com/xinyichua05/Centinel) |
+| 🚀 **Project** | **DuitSense** | Personal finance app combining budgeting, financial insights, savings planning and gamified financial habits. | [View Project](https://github.com/qianyi-11/DUITSENSE) |
+| 🚀 **Project** | **Shippeo** | Shipping document verification system that compares Shipping Instructions with Bills of Lading and explains discrepancies with evidence. | [View Project](https://github.com/qianyi-11/Shippeo) |
+| 🚀 **Project** | **TreasurAI** | Financial decision-support platform for cash-flow forecasting, ROI simulation, scenario planning and supplier negotiation. | [View Project](https://github.com/kangzhengg/treasurai) |
+| 🚀 **Project** | **InsightHUB** | MERN-based KPI management system for KPI assignment, progress tracking, evidence verification and performance monitoring. | [View Project](https://github.com/Ivy729/InsightHUB_WEB) |
+| 🚀 **Project** | **BookCare** | Android community marketplace for discovering, exchanging and donating books with social features and eco-reward mechanics. | [View Project](https://github.com/Zyinggg635/BookCare_MAD) |
+| 🚀 **Project** | **SafeCampus AI** | Scam detection platform that analyzes suspicious messages, screenshots, links and senders to help students stay safe online. | [View Project](https://github.com/qianyi-11/SAFE-CAMPUS-AI) |
+| 🚀 **Project** | **FraudGuard** | ML-powered fraud detection dashboard that analyzes bank transaction alerts, predicts fraud risk and provides explainable financial insights. | [View Project](https://github.com/enxxxi/FraudGuard) |
