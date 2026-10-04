@@ -55,3 +55,15 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
+
+### 🏆 Project & Competition Tracker
+
+| 🏅 Status | 🚀 Project / Competition | 📝 Description | 🔗 Link |
+|:---:|---|---|:---:|
+| 🚀 **Project** | **EVision AI** | Flutter-based EV charger inspection and diagnostic app with visual detection, guided troubleshooting and AI assistance. | [View Project](https://github.com/qianyi-11/EV-Charger-ESUM) |
+| 🚀 **Project** | **SurvAI** | Offline AI-powered autonomous drone rescue system for mission planning, swarm coordination and survivor detection. | [View Project](YOUR_LINK) |
+| 🚀 **Project** | **Trippy** | Explainable group travel planner that turns preferences and votes into a capacity-aware itinerary. | [View Project](https://github.com/qianyi-11/TravPlanner) |
+| 🚀 **Project** | **Centinel** | Enterprise AI governance platform with an AI firewall, PII protection, Shadow AI detection and compliance monitoring. | [View Project](YOUR_LINK) |
+| 🚀 **Project** | **DuitSense** | AI-powered personal finance app combining budgeting, financial insights, savings planning and gamified financial habits. | [View Project](https://github.com/qianyi-11/DUITSENSE) |
+| 🚀 **Project** | **Shippeo** | AI-powered shipping document verification system that compares Shipping Instructions with Bills of Lading and explains discrepancies with evidence. | [View Project](https://github.com/qianyi-11/Shippeo) |
+| 🚀 **Project** | **TreasurAI** | AI-powered financial decision-support platform for cash-flow forecasting, ROI simulation, scenario planning and supplier negotiation. | [View Project](YOUR_LINK) |
